@@ -21,9 +21,6 @@ Welcome to the "Machine Learning Basics" repository! This repository contains Py
 5. [Reinforcement Learning](#reinforcement-learning)
     - [N-Queens](#n-queens)
     - [Q-Learning](#q-learning)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
