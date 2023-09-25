@@ -13,7 +13,7 @@ Welcome to the "Machine Learning Basics" repository! This repository contains Py
     - [K-Nearest Neighbors (KNN)](KNNAlgorithm.ipynb)
 3. [Unsupervised Learning](#unsupervised-learning)
     - [K-Means Clustering](KMeans.ipynb)
-    - [Hierarchical Clustering](#hierarchical-clustering)
+    - [Hierarchical Clustering](Hierarchical.ipynb)
     - [Gaussian Mixture Models (GMM)](GMM.ipynb)
     - [Principal Component Analysis (PCA)](PCA.ipynb)
 4. [Neural Networks](#neural-networks)
